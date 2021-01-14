@@ -8,7 +8,7 @@ http://gitpod.io#
 
 in te typen VOOR het GitHub-adres.
 
-Als je tevreden bent of aan het eind van het les zit, verplaats je een nieuwe versie naar GitHub door:
+Als je tevreden beet of aan het eind van het les zit, verplaats je een nieuwe versie naar GitHub door:
 1) de wijzigingen te selecteren (stage changes)
 2) de wijzigingen te committen (vinkje; opmerking vereist!)
 3) de wijzigingen te pushen (onder ... Push)
